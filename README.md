@@ -16,7 +16,7 @@ This project is just a PoC of simple bootloader development with dummy kernel.
 
 ## Preface
 
-I was aleays wondering how an Operating System was loaded after I pressed the power button.
+I was always wondering how an Operating System was loaded after I pressed the power button.
 
 Until I got a real factory issue during work and started to learn about how to develop an OS.
 
